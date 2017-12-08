@@ -1,0 +1,3 @@
+[submodule "skal"]
+	path = skal
+	url = https://github.com/fabricetriboix/skal.git
